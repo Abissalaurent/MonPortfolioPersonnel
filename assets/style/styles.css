@@ -1,0 +1,24 @@
+.hero-section {
+    background-image:url(./assets/images/la-programmation-informatique.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    text-align: center;
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+    color: orange;
+    font-weight: bold;
+}
+
+.hero-section .lead {
+    font-weight: bold;
+}
+
+.navbar-brand {
+
+font-weight: bold;
+
+}
+
